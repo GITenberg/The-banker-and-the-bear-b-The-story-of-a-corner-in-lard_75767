@@ -1,5 +1,8 @@
 _repo: The-banker-and-the-bear-b-The-story-of-a-corner-in-lard_75767
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 75767-h/images/cover.jpg
 creator:
   author:
     agent_name: Webster, Henry Kitchell
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3868
     wikipedia: https://en.wikipedia.org/wiki/Henry_Kitchell_Webster
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75767#The-banker-and-the-bear-b-The-story-of-a-corner-in-lard
 gutenberg_issued: '2025-04-01'
 gutenberg_type: Text
 identifiers:
